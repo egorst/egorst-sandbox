@@ -12,3 +12,15 @@ See, for example, a list:
 * two
 * not two
 
+Or, let's try a table
+. Sample Table Title
+|===
+|Event |ela
+
+|SQL*Net Message to Client
+|123456
+
+|db file sequential read
+|123
+
+|===
