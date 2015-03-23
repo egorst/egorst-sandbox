@@ -5,7 +5,10 @@ Egor Starostin
 Is it really asciidoc format?
 
 Looks like it really is.
+
 See, for example, a list:
+
 * one
 * two
 * not two
+
