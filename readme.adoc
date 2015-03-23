@@ -13,6 +13,7 @@ See, for example, a list:
 * not two
 
 Or, let's try a table
+
 .Sample Table Title
 |===
 |Event |ela
