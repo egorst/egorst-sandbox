@@ -25,3 +25,12 @@ Or, let's try a table
 |123
 
 |===
+
+Another table
+
+[format="csv", options="header"]
+|===
+event,p1,p2,p3,ela
+direct path read,1,2,3, 4095
+db file scattered read,4,5,55, 404
+|===
